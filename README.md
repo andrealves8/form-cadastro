@@ -1,6 +1,6 @@
 # Formulário de Cadastro
 
-Intregação com Banco de Dados - Dados e Imagem
+Intregação com Banco de Dados
 
 
 
