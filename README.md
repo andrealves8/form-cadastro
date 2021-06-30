@@ -6,6 +6,8 @@ Intregação com Banco de Dados
 
 André Alves
 
-https://www.linkedin.com/in/andrealves8
-https://github.com/andrealves8
+<ul>
+  <li>https://www.linkedin.com/in/andrealves8</li>
+  <li>https://github.com/andrealves8</li>
+</ul>
 
